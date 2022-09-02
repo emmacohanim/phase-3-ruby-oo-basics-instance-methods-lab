@@ -1,0 +1,14 @@
+# define class
+class Dog
+
+
+# define instance method
+def bark
+    puts "Woof!"
+end
+
+def sit
+    puts "The Dog is sitting"
+end
+
+end
